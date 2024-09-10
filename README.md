@@ -1,57 +1,111 @@
-<h2 align="left">Hi 👋! My name is Jesús and I'm a full stack developer , from Spain </h2>
+<h1 align="center">Hi there 👋, I'm Jesús
+  <img src="https://img.shields.io/github/followers/jfm112INSO?style=social">
+  <img src="https://komarev.com/ghpvc/?username=jfm112INSO">
+</h1>
 
-###
+<p align="center">
+  <a href="https://github.com/jfm112INSO">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Console&pause=1000&width=435&lines=Full+Stack+Developer;Always+developing+my+skills;Technology+enthusiast;Problem-solver;Python+%7C+Java+%7C+SQL;C+%7C+C%2B%2B+%7C+C%23;HTML+%7C+CSS+%7C+TypeScript;Git+%7C+Web+%7C+APIs&center=true&width=380&height=45">
+  </a>
+</p>
+
+<pre>
+💻 I am developing my skills as a Full Stack Developer
+🎯 Enthusiastic about new technologies
+📚 I am finishing my degree in Software Engineering
+📝 I have a strong interest in building scalable web applications and efficient software solutions
+🔭 Working on personal projects that enhance my coding skills and solve real-world problems
+🌱 Focusing on learning about customer needs and making their lives easier
+🚩 Interested in user-centered design and front-end/back-end development
+</pre>
+
+# 📊Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jfm112INSO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jfm112INSO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jfm112INSO&show_icons=true&theme=github_dark" height="230px">
+  <img src="https://github-readme-stats.vercel.app/api?username=jfm112INSO&show_icons=true&theme=github_dark" height="230px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jfm112INSO&show_icons=true&theme=github_dark" width="800px">
 </div>
 
-###
+# 💻Tech Stack <img src = "https://github.com/jfm112INSO/jfm112INSO/blob/main/assets/dev.gif" width = 22px>
 
-
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="50" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="50" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="50" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="50" alt="eclipseide logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="50" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="50" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="50" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="50" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="50" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" height="50" alt="ssh logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="50" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
 </div>
+<br>
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/jesusfornieles/?locale=es_ES%2F" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-</a>
-
- <a href="mailto:jfm112@inlumine.ual.es">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</a>
-  
-   <a href="https://www.linkedin.com/in/jesus-fornieles-muñoz-9b0811305/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</a>
-</div>
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <h3><b>Let's get in touch! </b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/pablo-g%C3%B3mez-rivas-10b80b305/">
+  <img align="center" alt="Pablo Gómez Rivas | Linkedin" width="24px" src="https://github.com/jfm112INSO/jfm112INSO/blob/main/assets/linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://discordapp.com/users/689848538859044923/">
+  <img align="center" alt="pgr230 | Discord" width="32px" src="https://github.com/jfm112INSO/jfm112INSO/blob/main/assets/discord.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:jfm112INSO@inlumine.ual.es">
+  <img align="center" alt="Pablo Gómez Rivas | Gmail" width="28px" src="https://github.com/jfm112INSO/jfm112INSO/blob/main/assets/gmail.svg" />
+</a> &nbsp;&nbsp;
+<p>
+<p align="center">
+  <img src="https://github.com/jfm112INSO/jfm112INSO/blob/main/assets/github-user-contribution.svg" alt="snake">
+</p>
