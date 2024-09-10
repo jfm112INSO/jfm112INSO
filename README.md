@@ -96,14 +96,14 @@
   <h3><b>Let's get in touch! </b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/pablo-g%C3%B3mez-rivas-10b80b305/">
-  <img align="center" alt="Pablo Gómez Rivas | Linkedin" width="24px" src="https://github.com/jfm112INSO/jfm112INSO/blob/main/assets/linkedin.svg" />
+<a href=https://www.linkedin.com/in/jesus-fornieles-muñoz-9b0811305/">
+  <img align="center" alt="Jesus Fornieles Muñoz | Linkedin" width="24px" src="https://github.com/jfm112INSO/jfm112INSO/blob/main/assets/linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://discordapp.com/users/689848538859044923/">
-  <img align="center" alt="pgr230 | Discord" width="32px" src="https://github.com/jfm112INSO/jfm112INSO/blob/main/assets/discord.svg" />
+  <img align="center" alt="jfm112 | Discord" width="32px" src="https://github.com/jfm112INSO/jfm112INSO/blob/main/assets/discord.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:jfm112INSO@inlumine.ual.es">
-  <img align="center" alt="Pablo Gómez Rivas | Gmail" width="28px" src="https://github.com/jfm112INSO/jfm112INSO/blob/main/assets/gmail.svg" />
+<a href="mailto:jfm112@inlumine.ual.es">
+  <img align="center" alt="Jesus Fornieles Muñoz | Gmail" width="28px" src="https://github.com/jfm112INSO/jfm112INSO/blob/main/assets/gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
 <p align="center">
